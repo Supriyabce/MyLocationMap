@@ -1,0 +1,2 @@
+# MyLocationMap
+Google Maps is a web mapping service developed by Google.Google Maps began as a C++ desktop program at Where 2 Technologies. In October 2004, the company was acquired by Google, which converted it into a web application. After additional acquisitions of a geospatial data visualization company and a realtime traffic analyzer, Google Maps was launched in February 2005.[2] The service's front end utilizes JavaScript, XML, and Ajax. 
